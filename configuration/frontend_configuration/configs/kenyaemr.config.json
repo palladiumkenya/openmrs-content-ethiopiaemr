@@ -72,7 +72,7 @@
   },
   "@kenyaemr/esm-login-app": {
     "logo": {
-      "src": "/openmrs/spa/login-logo-am.png"
+      "src": "/openmrs/spa/config/assets/ethiopiaemr-package/login-logo.png"
     },
     "links": {
       "src": "/openmrs/spa/home/service-queues"
@@ -80,11 +80,12 @@
     "footer": {
       "additionalLogos": [
         {
-          "src": "/openmrs/spa/kenyaemr-login-logo.png",
-          "alt": "KenyaEMR"
+          "src": "/openmrs/spa/config/assets/ethiopiaemr-package/login-logo.png",
+          "alt": "EthiopiaEMR"
         }
       ]
-    }
+    },
+    "backgroundImage": "/openmrs/spa/config/assets/ethiopiaemr-package/login-background.png"
   },
   "@kenyaemr/esm-stock-management-app": {
     "stockTakeReasonUUID": "b1267598-6048-4146-af84-98716b88a25a"
