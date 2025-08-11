@@ -4,8 +4,8 @@ Tigray,North Western Tigray,Medebay Zana
 Tigray,North Western Tigray,Tahtay Koraro
 Tigray,North Western Tigray,Asegede Tsimbila
 Tigray,North Western Tigray,Tselemti
-Tigray,North Western Tigray,Shere Endasilasie /Town/
-Tigray,North Western Tigray,Shiraro /Town/
+Tigray,North Western Tigray,Shere Endasilasie
+Tigray,North Western Tigray,Shiraro
 Tigray,Central Tigray,Mereb Lehe
 Tigray,Central Tigray,Ahiferom
 Tigray,Central Tigray,Were Lehe
@@ -16,9 +16,9 @@ Tigray,Central Tigray,Nader Adet
 Tigray,Central Tigray,Kola Temben
 Tigray,Central Tigray,Dega Temben
 Tigray,Central Tigray,Tanqua Abergele
-Tigray,Central Tigray,Abi Adi /Town/
-Tigray,Central Tigray,Adwa /Town/
-Tigray,Central Tigray,Axum /Town/
+Tigray,Central Tigray,Abi Adi
+Tigray,Central Tigray,Adwa
+Tigray,Central Tigray,Axum
 Tigray,Eastern Tigray,Gulo Meheda
 Tigray,Eastern Tigray,Erob
 Tigray,Eastern Tigray,Saesi Tsadamba
@@ -26,8 +26,8 @@ Tigray,Eastern Tigray,Ganta Afeshum
 Tigray,Eastern Tigray,Hawuzen
 Tigray,Eastern Tigray,Kilte Awlalo
 Tigray,Eastern Tigray,Atsbi Wonberta
-Tigray,Eastern Tigray,Adigrat /Town/
-Tigray,Eastern Tigray,Wukro /Town/
+Tigray,Eastern Tigray,Adigrat
+Tigray,Eastern Tigray,Wukro
 Tigray,Southern Tigray,Seharti Samre
 Tigray,Southern Tigray,Enderta
 Tigray,Southern Tigray,Hintalo Wajirat
@@ -36,13 +36,13 @@ Tigray,Southern Tigray,Endamehoni
 Tigray,Southern Tigray,Raya Azebo
 Tigray,Southern Tigray,Alamata
 Tigray,Southern Tigray,Ofla
-Tigray,Southern Tigray,Maychew /Town/
-Tigray,Southern Tigray,Korem /Town/
-Tigray,Southern Tigray,Alamata /Town/
+Tigray,Southern Tigray,Maychew
+Tigray,Southern Tigray,Korem
+Tigray,Southern Tigray,Alamata
 Tigray,Western Tigray,Kafta Humera
 Tigray,Western Tigray,Welkayit
 Tigray,Western Tigray,Tsegede
-Tigray,Western Tigray,Humera /Town/
+Tigray,Western Tigray,Humera
 Tigray,Mekele Special,Debub
 Tigray,Mekele Special,Semen
 Afar,Zone 1,Dubti
@@ -79,7 +79,7 @@ Amhara,South Gondar,Tach Gayint
 Amhara,South Gondar,Simada
 Amhara,South Gondar,Misrak Este
 Amhara,South Gondar,Dera
-Amhara,South Gondar,Debre Tabor /Town/
+Amhara,South Gondar,Debre Tabor
 Amhara,South Gondar,Merab Este
 Amhara,North Wello,Bugna
 Amhara,North Wello,Kobo
@@ -108,8 +108,8 @@ Amhara,South Wello,Kelela
 Amhara,South Wello,Jama
 Amhara,South Wello,Were Ilu
 Amhara,South Wello,Wegidi
-Amhara,South Wello,Kombolcha /Town/
-Amhara,South Wello,Dessie /Town/
+Amhara,South Wello,Kombolcha
+Amhara,South Wello,Dessie
 Amhara,South Wello,Mehal Saynt
 Amhara,South Wello,Legahida
 Amhara,North Shewa,Mida Woremo
@@ -137,7 +137,7 @@ Amhara,East Gojjam,Baso Liben
 Amhara,East Gojjam,Awabel
 Amhara,East Gojjam,Dejen
 Amhara,East Gojjam,Shebel Berenta
-Amhara,East Gojjam,Debre Markos /Town/
+Amhara,East Gojjam,Debre Markos
 Amhara,East Gojjam,Sinan
 Amhara,East Gojjam,Aneded
 Amhara,West Gojjam,Semen Achefer
@@ -153,17 +153,61 @@ Amhara,West Gojjam,Bure
 Amhara,West Gojjam,Wonberma
 Amhara,West Gojjam,Goncha
 Amhara,West Gojjam,Debub Achefer
-Amhara,West Gojjam,Finote Selam /Town/
+Amhara,West Gojjam,Finote Selam
 Amhara,Waghemira,Ziquala
 Amhara,Waghemira,Sekota
 Amhara,Waghemira,Dehena
 Amhara,Waghemira,Gazgibla
 Amhara,Waghemira,Abergele
 Amhara,Waghemira,Sehala
-Amhara,Waghemira,Sekota /Town/
+Amhara,Waghemira,Sekota
 Amhara,Awi,Dangila
 Amhara,Awi,Banja Shekudad
 Amhara,Awi,Ankasha Guagusa
 Amhara,Awi,Guangua
 Amhara,Awi,Fagita Lekoma
 Amhara,Awi,Jawi
+Awi,Awi,Guagusa Shikudad
+Oromia,Oromia,Dawa Chefa
+Oromia,Oromia,Bati
+Oromia,Oromia,Jile Timuga
+Oromia,Oromia,Artuma Fursi
+Oromia,Oromia,Dawe Harewa
+Oromia,Oromia,Kemisie /Town/
+Oromia,Bahir Dar Special,Bahir Dar
+Oromia,Argoba Special,Argoba Special Wereda
+Oromia,West Wellega,Menesibu
+Oromia,West Wellega,Nejo
+Oromia,West Wellega,Gimbi
+Oromia,West Wellega,Lalo Asabi
+Oromia,West Wellega,Kiltu Kara
+Oromia,West Wellega,Boji Dirmeji
+Oromia,West Wellega,Guliso
+Oromia,West Wellega,Jarso
+Oromia,West Wellega,Kondala
+Oromia,West Wellega,Boji Chekorsa
+Oromia,West Wellega,Babo Gambel
+Oromia,West Wellega,Yubdo
+Oromia,West Wellega,Genji
+Oromia,West Wellega,Haru
+Oromia,West Wellega,Nole Kaba
+Oromia,West Wellega,Begi
+Oromia,West Wellega,Gimbi
+Oromia,West Wellega,Seyo Nole
+Oromia,East Wellega,Limu
+Oromia,East Wellega,Ibantu
+Oromia,East Wellega,Gida Kiremu
+Oromia,East Wellega,Haro Limu
+Oromia,East Wellega,Boneya Bushe
+Oromia,East Wellega,Wayu Tuka
+Oromia,East Wellega,Gudeya Bila
+Oromia,East Wellega,Gobu Seyo
+Oromia,East Wellega,Sibu Sire
+Oromia,East Wellega,Diga
+Oromia,East Wellega,Sasiga
+Oromia,East Wellega,Leka Dulecha
+Oromia,East Wellega,Guto Gida
+Oromia,East Wellega,Jima Arjo
+Oromia,East Wellega,Nunu Kumba
+Oromia,East Wellega,Wama Hagelo
+Oromia,East Wellega,Nekemte
