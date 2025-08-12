@@ -344,5 +344,8 @@
   },
   "@kenyaemr/esm-version-app": {
     "extensionSlots": {}
+  },
+  "@kenyaemr/esm-facility-dashboard-app": {
+    "facilityDashboardAboveSiteUrl": "http://34.35.62.41:8080"
   }
 }
